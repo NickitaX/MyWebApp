@@ -1,0 +1,25 @@
+{
+  "short_name": "MyWebApp",
+  "name": "Nick's test Web App",
+  "icons": [
+    {
+      "src": "icon.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "icon.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "icon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "gcm_sender_id": "xxx"
+    }
+  ],
+  "start_url": "index.html"
+}
